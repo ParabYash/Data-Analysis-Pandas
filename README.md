@@ -1,6 +1,6 @@
 # Data Analysis with Pandas
 
-This repository contains Jupyter Notebooks and excel and csv files demonstrating data cleaning and exploratory data analysis using Pandas.
+This repository contains Jupyter Notebooks and files demonstrating data cleaning and exploratory data analysis using Pandas. Also contains its equivalent dataset files in Excel and Csv.
 
 ## Jupyter Notebooks
 - Data Cleaning using Pandas.ipynb
