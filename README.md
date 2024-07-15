@@ -1,8 +1,8 @@
 # Data Analysis with Pandas
 
-This repository contains Jupyter Notebooks demonstrating data cleaning and exploratory data analysis using Pandas.
+This repository contains Jupyter Notebooks and excel and csv files demonstrating data cleaning and exploratory data analysis using Pandas.
 
-## Notebooks
+## Jupyter Notebooks
 - Data Cleaning using Pandas.ipynb
 - Exploratory Data Analysis using Pandas.ipynb
 
@@ -33,4 +33,8 @@ You can install the necessary Python packages using pip:
 - Correlation Analysis: Analyzing correlations between variables to identify potential relationships.
 - Data Summarization: Summarizing data using groupby operations, pivot tables, and aggregations.
 
+## Contact Information
+For any questions or suggestions, feel free to contact me:
 
+- Email: yashparab05@gmail.com
+- LinkedIn: https://linkedin.com/in/yash-parab-9a5a6a209
